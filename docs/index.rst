@@ -6,13 +6,6 @@ How to Sign In FixMeStick Account for Subscription Management?
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-.. image:: https://totaldefense-sign-in-account.readthedocs.io/en/latest/_images/signin.png
-   :alt: My Project Logo
-   :width: 400px
-   :align: center
-   :target: https://aclogportal.com/fixmestick-sign-in-account
-_________
   
 If you're a FixMeStick user, managing your subscription effectively is essential to keep your device secure and up to date. Whether you want to update billing details, review your renewal status, or cancel your subscription, everything starts with one key step: signing in to your FixMeStick account. In this detailed guide, we’ll walk you through how to sign in to your FixMeStick account for subscription management, what to do if you forget your password, and how to ensure your account is secure.
 
